@@ -2,6 +2,8 @@
 
 MarsX is an AI-powered chatbot built with [Streamlit](https://streamlit.io/) and [Groq's LLM API](https://groq.com/). It features a modern chat interface and streams responses using Groq's ultra-fast inference engine.
 
+[Live Demo](https://marsx-chatbot.streamlit.app/)
+
 ---
 
 ## Features
